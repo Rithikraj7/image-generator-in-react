@@ -7,7 +7,7 @@ const Chatbot = () => {
     const [loading, setLoading] = useState(false);
     const [error, setError] = useState('');
 
-    const apiKey = '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'; // Replace with your actual API key
+    const apiKey = prompt("enter the openai api key"); // Replace with your actual API key
     //const apiUrl = 'https://api.openai.com/v1/images/generations';
 
     const handleInputChange = (event) => {
