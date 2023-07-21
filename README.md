@@ -2,7 +2,7 @@
 
 A image generator application built with react, and openai.
 
-![Screenshot (161)_adobe_express](https://github.com/Rithikraj7/image-generator-using-react/assets/108055323/5ba56de4-7f6c-4697-97d9-305d51e2c0fe)
+![Screenshot (161)_adobe_express](https://github.com/Rithikraj7/image-generator-in-react/assets/108055323/911e6f06-b41f-491b-b473-2bb91ecb1bb4)
 
 ## Description
 
