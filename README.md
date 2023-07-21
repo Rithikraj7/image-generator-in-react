@@ -19,9 +19,9 @@ This project is a simple image generator built with React. It allows users to ge
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Rithikraj7/image-generator-using-react.git
+git clone https://github.com/Rithikraj7/image-generator-in-react.git
 ```
-1. Navigate to the project directory: `cd image-generator-using-react`
+1. Navigate to the project directory: `cd image-generator-in-react`
 2. Install the dependencies: `npm install'
 3. Set up the `Openai API`.
 4. Start the server: `npm start `
